@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "asciidoctor-reveal.js": "^2.0.0",
+    "asciidoctor-reveal.js": "^2.0.1",
     "npm-watch": "^0.6.0"
   },
   "watch": {
