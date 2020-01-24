@@ -69,7 +69,7 @@ image::licences.png[]
 
 == Reality check
 
-_Votre entreprise IT existe grâce à l'Open Source_
+_Nos entreprises IT existent grâce à l'Open Source_
 
 (de manière directe ou indirecte)
 
@@ -178,6 +178,14 @@ image::hard.gif[width=70%]
 ----
 
 https://central.sonatype.org/pages/ossrh-guide.html
+
+== Github
+
+image::lectra-tech.png[]
+
+== Conventions
+
+image::files.png[]
 
 [%notitle]
 == CI
