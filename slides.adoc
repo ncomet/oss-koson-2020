@@ -7,7 +7,7 @@
 :revealjs_plugin_highlight: enabled
 :revealjs_slideNumber: true
 :revealjs_showSlideNumber: speaker
-:revealjs_defaultTiming: 40
+:revealjs_defaultTiming: 37
 :customcss: custom.css
 :data-uri:
 :icons: font
@@ -40,7 +40,9 @@ image::lectra-versalis.jpg[width=50%]
 
 == Gratuit ?
 
-image::enquetePAC2017.png[width=75%]
+* Retombées & services dérivés
+
+image::enquetePAC2017.png[width=60%]
 
 [%notitle]
 == Contributeurs
@@ -62,6 +64,14 @@ image::contribution-2018.png[background, size=contain]
 9.  ESRI                 6.87%  (3 800+)
 10. Microsoft            3.10%  (150 000)
 ----
+
+== Moins Sécurisé ?
+
+[%step]
+* Pas moins que propriétaire !
+* Plus réactif à la correction
+* Peer review -> qualité
+* Contributeurs _désintéressés_
 
 == Juridique
 
@@ -86,11 +96,7 @@ image::koson-logo-large.png[width=50%]
 
 icon:github[].com/lectra-tech/koson +
 
-image::koson-qrcode.png[]
-
-== DSL Kotlin
-
-image::live.gif[width=60%]
+image:koson-qrcode.png[] image:live.gif[width=50%]
 
 == Utilisation
 
