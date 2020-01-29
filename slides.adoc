@@ -83,6 +83,9 @@ _Nos entreprises IT existent grâce à l'Open Source_
 
 (de manière directe ou indirecte)
 
+image:open-source-500.jpeg[width=50%] +
+@like_gudim
+
 == L'histoire
 
 image::kotlin-springboot.png[width=50%]
